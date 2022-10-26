@@ -19,5 +19,5 @@
 
 
 ![ARVIPE's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvipe&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvipe&langs_count=3&hide=Makefile,CMake,CSS&theme=transparent)](https://github.com/arvipe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvipe&langs_count=3&hide=Makefile,CMake,CSS&theme=radical)](https://github.com/arvipe)
 
