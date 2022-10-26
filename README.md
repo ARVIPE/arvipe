@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Nestjs, Next and Typescript**
 
-- 💬 Ask me about **java, react, php, ts**
-
 - 📫 How to reach me **arvicper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
