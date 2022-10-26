@@ -2,7 +2,7 @@
 <h3 align="center">A passionate of create app and make awesome websites.</h3>
 
 <div align="center">
-  <img src="https://educacion30.b-cdn.net/wp-content/uploads/2019/06/homer.gif" style="width:250px"/>
+  <img src="https://c.tenor.com/HOjrxHv7cpgAAAAC/tense-1983.gif" style="width:250px"/>
 </div>
 
 - 🔭 I’m currently studiying in **university of Córdoba**
