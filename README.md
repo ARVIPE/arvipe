@@ -1,1 +1,5 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=ARVIPE&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+ <div align="center">
+    <img width="100%" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" alt="PAS">
+  </div>
+</p>
