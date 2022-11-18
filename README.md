@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arturo Vicente Pérez</h1>
 <h3 align="center">A passionate of create app and make awesome websites.</h3>
 
-<div align="center">
-  <img src="https://c.tenor.com/HOjrxHv7cpgAAAAC/tense-1983.gif" style="width:250px"/>
-</div>
-
 - 🔭 I’m currently studiying in **university of Córdoba**
 
 - 🌱 I’m currently learning **Nestjs, Next and Typescript**
