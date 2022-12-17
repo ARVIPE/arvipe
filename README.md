@@ -16,7 +16,8 @@
 
 
 
-  <p align="right">![ARVIPE's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvipe&show_icons=true&theme=radical)</p>
+ ![ARVIPE's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvipe&show_icons=true&theme=radical)
+
 
 
 
