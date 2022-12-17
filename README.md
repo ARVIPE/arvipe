@@ -15,9 +15,9 @@
 </p>
 
 
-<div style="justify-content:center; text:center;">
+
   ![ARVIPE's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvipe&show_icons=true&theme=radical)
-</div>
+
 
 
 
