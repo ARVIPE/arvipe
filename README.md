@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studiying in **university of Córdoba**
 
-- 🌱 I’m currently learning **Nestjs, Next and Typescript**
+- 🌱 I’m currently learning **React Native and Node**
 
 - 📫 How to reach me **arvicper@gmail.com**
 
