@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arturo Vicente Pérez</h1>
-<h3 align="center">A passionate of create app and make awesome websites.</h3>
+<h3 align="center">I'm passionate about creating apps and building awesome websites.</h3>
 
-- 🔭 I’m currently studiying in **university of Córdoba**
+- 🔭 Studying at the University of Córdoba.**
 
-- 🌱 I’m currently learning **React Native and Node**
+- 🌱 I’m currently learning **React Native and Node.**
 
-- 📫 How to reach me **arvicper@gmail.com**
+- 📫 You can reach me at arvicper@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
