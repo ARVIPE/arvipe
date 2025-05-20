@@ -3,8 +3,6 @@
 
 - 🔭 Studying at the University of Córdoba.**
 
-- 🌱 I’m currently learning **React Native and Node.**
-
 - 📫 You can reach me at arvicper@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
