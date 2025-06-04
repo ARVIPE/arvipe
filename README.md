@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arturo Vicente Pérez</h1>
-<h3 align="center">I'm passionate about creating apps and building awesome websites.</h3>
+<h3 align="center">I'm passionate about creating apps and building awesome apps.</h3>
 
 - 🔭 Studying at the University of Córdoba.**
 
