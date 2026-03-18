@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arturo Vicente Pérez</h1>
 <h3 align="center">I'm passionate about creating apps and building awesome apps.</h3>
 
-- 🔭 Degree at the University of Córdoba.
+- 🔭 Graduated from the University of Córdoba.
 
 - 📫 You can reach me at arvicper@gmail.com.
 
